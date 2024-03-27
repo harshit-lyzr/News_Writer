@@ -63,7 +63,7 @@ def search(query):
     })
 
     headers = {
-        'X-API-KEY': "6e191443ba8f4e0388076825521ff056fa305602",
+        'X-API-KEY': serpapi,
         'Content-Type': 'application/json'
     }
 
