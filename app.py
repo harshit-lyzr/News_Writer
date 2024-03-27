@@ -100,7 +100,7 @@ def extracteddata(query):
     for i in result:
         get_data = extract_text_from_url(i)
         my_data.append(get_data)
-    return my_data
+    return my_data[:6]
 
 give_news=st.text_input("search")
 
