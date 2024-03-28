@@ -16,7 +16,7 @@ Follow these steps to run the Lyzr Personal News Agent Streamlit App locally:
     ```bash
     streamlit run app.py
 
-## Resume QABot App
+## Personal News Agent App
 [Application](https://lyzr-news.streamlit.app/)
 
 ## About Lyzr
